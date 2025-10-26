@@ -43,33 +43,33 @@ published:
 
 ## Qualifikationen
 
-### [[Wissenschaftler|Bildungswissenschaftler / Pädagoge / Erziehungswissenschaftler (M.A.)]]
+### Wissenschaftler|Bildungswissenschaftler / Pädagoge / Erziehungswissenschaftler (M.A.)
 
 **F**ernUniversität in Hagen  
 **F**akultät für Kultur- und Sozialwissenschaften, Institut für Bildungswissenschaft und Medienforschung (IfBM)  
 **Betreuung:** Prof. Dr. habil. Uwe Elsholz  
 **Schwerpunkt:** Agiles Lernen zur Förderung der Kompetenzentwicklung in High Responsibility Teams.
 
-### [[Systemischer Berater]] (M.A.)
+### Systemischer Berater (M.A.)
 
 **T**echnische Universität Kaiserslautern  
 **D**istance and Independent Studies Center (DISC)  
 **Fachliche Leitung:** Prof. Dr. Dr. h. c. Rolf Arnold; apl. Prof. Dr. Fritz B. Simon  
 **Fokus:** Systemische Interventionskompetenz in kritischen Situationen: Systemisches Denken und Handeln in High Responsibility Teams.
 
-### [[Wissenschaftler|Bildungswissenschaftler / Pädagoge / Erziehungswissenschaftler (B.A.)]]
+### Wissenschaftler|Bildungswissenschaftler / Pädagoge / Erziehungswissenschaftler (B.A.)
 
 **F**ernUniversität in Hagen  
 **F**akultät für Kultur- und Sozialwissenschaften, Institut für Bildungswissenschaft und Medienforschung (IfBM)  
 **Abschlussarbeit:** *Burnout-Prävention – kompetenzorientiert, langfristig, nachhaltig: Konzeption einer Bildungsmaßnahme unter Verwendung der systemisch-konstruktivistischen Theorie.*
 
-### Notfallsanitäter
+### Notfallsanitäter (EP1)
 
 **E**rgänzungsprüfung gemäß § 32 NotSanG i. V. m. Abschnitt 4 NotSan-APrV  
 **N**otfallsanitäterschule Stadt Köln  
 **Schwerpunkt:** Handlungsorientierte Notfallversorgung und qualifizierte Patientenversorgung in akuten Notfallsituationen.
 
-### [[Therapiebegleithund|Therapiehundeführer]]
+### Therapiehundeführer
 
 **A**TN AG – Akademie für angewandte Tierpsychologie und Tierverhaltenstraining  
 **D**ürnten (Schweiz)  
