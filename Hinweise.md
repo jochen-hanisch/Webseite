@@ -1,35 +1,76 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Hinweise
-Repository: 
-created: 2024-12-08
-updated: 2024-12-08
+Repository: https://github.com/jochen-hanisch/Webseite
+created: 2024-11-17
+updated: 2025-10-26
 publish: true
-tags: []
-published: 2025-05-11
+tags:
+published: 2025-10-26
 ---
 
-# Methodik und Veröffentlichungspraxis
+## Arbeits- und Forschungspraxis
 
 **A**lle auf dieser Webseite veröffentlichten Inhalte basieren auf einem unabhängigen, theoretischen Forschungsansatz und repräsentieren Grundlagenforschung. Die Arbeiten folgen den Prinzipien wissenschaftlicher Redlichkeit, wurden jedoch bewusst keinem Peer-Review-Verfahren unterzogen. Ziel ist es, neue interdisziplinäre Perspektiven frei von traditionellen Publikationsrestriktionen zugänglich zu machen und zur Diskussion zu stellen.
 
-**D**ie Webseite dient nicht nur der wissenschaftlichen Community, sondern auch der breiteren Öffentlichkeit als Plattform für Erkenntnisgewinn und Reflexion. Die Möglichkeit, Wissen dynamisch zu erweitern und kontinuierlich weiterzuentwickeln, steht im Mittelpunkt dieses Ansatzes.
+**D**ie Webseite dient sowohl der wissenschaftlichen Community als auch der breiteren Öffentlichkeit als Plattform für Erkenntnisgewinn und Reflexion. Wissen darf sich dynamisch erweitern und kontinuierlich weiterentwickeln – Transparenz und Anschlussfähigkeit stehen vor Abschluss.
 
-**J**ede veröffentlichte Notiz wird durch ein begleitendes Entwicklungsprotokoll ergänzt, das die Entstehungslogik, Wendepunkte, Irrtümer und systemischen Beiträge dokumentiert. Dieses Protokoll wird als _empty commit_ in die Git-Historie eingebunden und reflektiert die Entstehung als erkenntnistheoretischen Prozess.
-## Gütekriterien und Archivierung
+**J**ede veröffentlichte Notiz erhält ein begleitendes Entwicklungsprotokoll. Es dokumentiert Entstehungslogik, Wendepunkte, Irrtümer und systemische Beiträge und wird als empty commit in die Git-Historie integriert. Damit wird der Erkenntnisprozess selbst zum zitierbaren Artefakt.
 
-**J**ede Veröffentlichung beginnt mit einem Erkenntnisinteresse, das sich in der Präzisierung und Herleitung von Begriffen und Konzepten manifestiert. Diese werden in systemischen oder bildungswissenschaftlichen Kontexten verortet und iterativ weiterentwickelt. Dieser Ansatz folgt der Empfehlung von Döring (2023b), bereits in frühen Phasen qualitativer Forschung bewusst auf Zielsetzung und Aussagekraft zu achten. Qualität wird dabei nicht nur am Ergebnis gemessen, sondern am gesamten Prozess.
+## Versionierung als epistemische Operation
 
-**D**ie Entscheidung, ob ein Beitrag veröffentlicht oder als interne Arbeitshilfe archiviert wird, basiert auf einer kritischen Reflexion der Relevanz für Systemtheorie, Rettungsdienst oder Bildungswissenschaft. Veröffentlichungswürdig sind Beiträge, die neue Perspektiven eröffnen oder Lücken in der Fachliteratur schließen. Dies folgt der Forderung, Gütekriterien explizit zu begründen und nachvollziehbar anzuwenden (Döring, 2023b).
+Versionierung fungiert nicht als Archivierung, sondern als Denkakt. „Veröffentlichen“ und „Versionieren“ markieren unterschiedliche Operationen innerhalb eines offenen, epistemisch transparenten Forschungsprozesses.
 
-**A**uch im Sinne eines konstruktivistischen Wissenschaftsverständnisses wird die Auswahl und Anwendung der Kriterien transparent reflektiert:
+### Versionierungslogik
 
-- **Wer favorisiert welche Kriterien – und weshalb?**
-- **Welche Vor- oder Nachteile ergeben sich daraus für bestimmte Forschungsansätze?**
+| Ebene | Operation | Bedeutung |
+| --- | --- | --- |
+| Nicht versioniert | Arbeiten im inneren Raum: denken, entwerfen, verknüpfen, verlaufen | -> präreflexive Notiz |
+| Versioniert (`git add` + `git commit`) | Öffnen eines Gedankenganges gegenüber der Öffentlichkeit – nachvollziehbar, aber noch nicht formal abgeschlossen | -> transparente Denkspur |
+| Veröffentlicht (z. B. Zenodo, DOI) | Setzen einer formalen Markierung im wissenschaftlichen Kommunikationssystem | -> veröffentlichte Erkenntnis |
 
-**E**in Verzicht auf diese Reflexion würde, wie Döring betont, zu Beliebigkeit führen und Kritik erschweren.
+Ab dem Moment, in dem `git add` ausgeführt wird, beginnt der öffentliche Erkenntnisprozess. Entscheidend ist nicht der fertige Gedanke, sondern seine nachvollziehbare Entstehung – Git wird zum epistemologischen Protokollsystem.
 
-**Z**ur Sicherung der Originalfassung wird jede veröffentlichte Notiz als statisches PDF archiviert und mit DOI auf [Zenodo](https://zenodo.org) hinterlegt. Dies konserviert den Stand zum Veröffentlichungszeitpunkt. Die DOI wird in der Notiz referenziert. Die dynamische Entwicklung der Webseite bleibt davon unberührt – sie wird dokumentiert über [git.jochen-hanisch.de](https://git.jochen-hanisch.de).
+### Git als epistemisches Protokoll
+
+| Systemoperation | Epistemosphaerische Bedeutung |
+| --- | --- |
+| `git add` | Inversion – Übergang von innerer Reflexion zu beobachtbarer Form |
+| `git commit` | Stabilisierung des Gedankens (Reflexion) |
+| `git push` | Reentry – der Gedanke tritt in die Öffentlichkeit |
+| DOI / Zenodo | Veröffentlichung – kommunikative Fixierung im wissenschaftlichen System |
+
+### Praktische Umsetzung
+
+1. Frei in Obsidian arbeiten.
+2. Sobald ein Gedanke sichtbar werden darf (beobachtbar, aber nicht abgeschlossen):
+
+   ```bash
+   git add Research/Bildungswissenschaft/Epistemosphaere.md
+   git commit -m "Beginn der öffentlichen Versionierung: Epistemosphäre"
+   git push
+   ```
+
+3. Ab dann bleibt jede Änderung über GitHub öffentlich nachvollziehbar.
+
+Konsequenzen:
+
+- Ein öffentliches Repository (`research`) reicht vollständig aus.
+- `git add` entscheidet granular, welcher Gedanke in die Welt tritt.
+- Dateien ohne `git add` bleiben unsichtbar, solange es nötig ist.
+- Commits lassen sich semantisch markieren, z. B. `git commit -m "[Reflexion] Neue Perspektive auf epistemische Selbstreferenz"` oder `git commit -m "[Reentry] Veröffentlichung der visualisierten Schleife"`.
+
+### Kurz gesagt
+
+- Versioniert heißt: sichtbar, aber nicht fertig.
+- Veröffentlicht heißt: abgeschlossen, formalisiert, mit DOI.
+- Nicht versioniert heißt: privat, fluide, vorläufig.
+
+Der Übergang wird nicht über Repositories, sondern über die bewusste Geste des `git add` gesteuert.
+
+## Veröffentlichungsworkflow und Archivierung
+
+Jeder Text beginnt mit einem Erkenntnisinteresse, das über Präzisierung und Herleitung von Begriffen und Konzepten in systemischen oder bildungswissenschaftlichen Kontexten verortet wird. Die dynamische Entwicklung bleibt auf der Webseite sichtbar, während die jeweilige Originalfassung konserviert wird.
 
 ```mermaid
 flowchart TD
@@ -52,64 +93,65 @@ flowchart TD
 
 _Abbildung 1: Ablauf der Veröffentlichung (eig. Darstellung)_
 
-**D**ie Git-Historie dient nicht nur der technischen Versionierung, sondern dokumentiert bewusst erkenntnistheoretisch relevante Entwicklungsschritte. Sie wird als eigenständiges Artefakt epistemischer Praxis betrachtet.
+- Veröffentlichungswürdige Beiträge eröffnen neue Perspektiven oder schließen Lücken in der Fachliteratur – dies wird vor jeder Freigabe kritisch reflektiert.
+- Zur Sicherung der Originalfassung wird jede veröffentlichte Notiz als statisches PDF exportiert und mit DOI auf [Zenodo](https://zenodo.org) hinterlegt, die DOI erscheint in der Notiz.
+- Die dynamische Weiterentwicklung dokumentiert [git.jochen-hanisch.de](https://git.jochen-hanisch.de); empty commits markieren erkenntnistheoretisch relevante Wendepunkte.
+- Erkenntnis entsteht im Dialog: Feedback fließt iterativ in die Texte zurück.
 
-**D**ie iterative Weiterentwicklung durch Feedback und Rückmeldung entspricht dem Ideal qualitativer Forschung: Erkenntnis entsteht im Dialog. Diese Praxis ist nicht nur Ausdruck methodischer Offenheit, sondern auch wissenschaftlicher Verantwortung (Döring, 2023b).
-### Vier Prinzipien leiten die Veröffentlichungspraxis:
+## Gütekriterien und Reflexion
 
-1. **Zielgerichtete Qualitätssicherung** – Klare Zieldefinition ab Beginn.
-2. **Explizite Kriterienwahl** – Bewusste Auswahl und Begründung der Maßstäbe.
-3. **Vermeidung von Beliebigkeit** – Transparente Struktur statt Beliebigkeit.
+Der gesamte Prozess folgt den Empfehlungen von Döring (2023b): Qualität wird nicht nur am Ergebnis, sondern am Weg dorthin gemessen. Die Auswahl und Anwendung von Gütekriterien erfolgt transparent und konstruktivistisch reflektiert.
+
+Leitfragen:
+
+- Wer favorisiert welche Kriterien – und weshalb?
+- Welche Vor- oder Nachteile ergeben sich daraus für bestimmte Forschungsansätze?
+
+### Vier Prinzipien der Veröffentlichungspraxis
+
+1. **Zielgerichtete Qualitätssicherung** – Klare Zieldefinition ab dem Beginn des Projekts.
+2. **Explizite Kriterienwahl** – Bewusste Auswahl und Begründung aller Maßstäbe.
+3. **Vermeidung von Beliebigkeit** – Strukturierte Entscheidungen statt opportunistischer Veröffentlichungen.
 4. **Reflexion der Konstruiertheit** – Selbstkritischer Umgang mit erkenntnistheoretischen Prämissen.
-
-**D**iese Praxis reflektiert die Überzeugung, dass Wissenschaft offen, nachvollziehbar und dialogisch sein muss – um Innovation und neue Denkansätze zu ermöglichen.
 
 ## Wissenschaftskommunikation und Öffentlichkeitsarbeit
 
-**D**iese Webseite versteht sich als Instrument systemisch reflexiver Wissenschaftskommunikation. Forschungsergebnisse sollen nicht nur innerhalb von Fachkreisen, sondern auch im öffentlichen Raum Wirkung entfalten.
+Die Webseite versteht sich als Instrument systemisch reflexiver Wissenschaftskommunikation. Forschungsergebnisse sollen nicht nur innerhalb von Fachkreisen, sondern auch im öffentlichen Raum Wirkung entfalten. In einer vernetzten Wissenschaftslandschaft ersetzen dynamische, kuratierte Webformate zunehmend klassische Monografien. Plattformen wie ResearchGate oder Zenodo dienen der Archivierung, Git der Versionierung.
 
-**I**n einer zunehmend vernetzten Wissenschaftslandschaft ersetzen dynamische, kuratierte Webformate zunehmend klassische Monografien. Plattformen wie ResearchGate oder Zenodo dienen der Archivierung, Git der Versionierung.
+Fachkolleg:innen und interessierte Personen sind ausdrücklich eingeladen, Rückmeldungen über die Kommentar- und Issue-Funktionen im Repository zu geben. Kritik und Anregung sind elementarer Bestandteil des wissenschaftlichen Prozesses.
 
-**F**achkolleg:innen und Interessierte sind eingeladen, Rückmeldungen zu geben – etwa über [b-Quadrat – Der Educast](https://git.jochen-hanisch.de/bzpg). Kritik und Anregung sind Teil des wissenschaftlichen Prozesses.
+## Zitierhinweise und Lizenz
 
-## Notizstatus-Kennzeichnung
+Alle Texte und Veröffentlichungen stehen unter der **GNU Affero General Public License, Version 3 (GNU AGPL v3)**. Die Lizenz gewährt umfassende Nutzungs-, Änderungs- und Weitergaberechte, solange die Lizenzbedingungen eingehalten werden. Der vollständige Lizenztext ist verfügbar unter <https://www.gnu.org/licenses/agpl-3.0.html>.
 
-**U**m den Entwicklungsstand einzelner Texte transparent zu halten, wird eine Statuskennzeichnung verwendet:
-
-1. **Draft** – Entwürfe, die sich noch in Bearbeitung befinden.
-2. **Pre-Publish** – Nahezu fertiggestellt, noch in der finalen Prüfung.
-3. **Review** – Veröffentlicht, aber im Modus regelmäßiger Reflexion.
-4. **Published** – Final veröffentlichte Version mit DOI.
-
-**D**raft- und Pre-Publish-Notizen erscheinen in der Regel nicht auf der Webseite.
-
-## Zitierhinweise der Beiträge
-
-**D**ie Veröffentlichungen stehen unter der **Creative Commons Lizenz (CC BY-NC 4.0)**. Sie dürfen unter Angabe der Quelle für nicht-kommerzielle Zwecke genutzt, geteilt und angepasst werden. ([Details zur Lizenz](https://creativecommons.org/licenses/by-nc/4.0/))
-
-**A**lle Inhalte dieser Webseite können entsprechend wissenschaftlicher Standards zitiert werden. Nutzer:innen werden gebeten, die Zitationsrichtlinien ihres jeweiligen Fachbereichs zu beachten.
-
-**N**eben den finalen PDF-Fassungen mit DOI wird auch auf relevante Git-Commits verwiesen, sofern diese erkenntnisrelevante Protokolle oder Umstrukturierungen enthalten.
+Alle Inhalte dieser Webseite können gemäß den Zitationsrichtlinien des jeweiligen Fachbereichs zitiert werden. Neben den finalen PDF-Fassungen mit DOI werden relevante Git-Commits referenziert, sofern sie erkenntnisrelevante Protokolle oder Umstrukturierungen enthalten.
 
 ## Epistemische Protokollpraxis
 
-**A**ls Bestandteil einer erkenntnistheoretisch verantworteten Forschungspraxis werden zentrale Entwicklungsschritte durch schriftlich fixierte Protokolle sichtbar gemacht. Diese dokumentieren (https://git.jochen-hanisch.de/explore/repos):
+Zentrale Entwicklungsschritte werden schriftlich fixiert und über die Git-Historie sichtbar gemacht:
 
 - Erkenntnisanlässe, Wendepunkte, Fehlannahmen
-- Rollenverteilungen zwischen Forscher und System
+- Rollenverteilungen zwischen Forschenden und System
 - Transformationen der theoretischen Perspektive
 
-**D**ie Protokolle werden in die Git-Versionsgeschichte eingebunden, wodurch der Prozesscharakter von Wissenschaft explizit nachvollziehbar wird. Sie machen sichtbar, dass Irrtum, Revision und Emergenz keine Schwächen sind – sondern genuiner Bestandteil wissenschaftlicher Erkenntnis.
+Diese Protokolle zeigen, dass Irrtum, Revision und Emergenz keine Schwächen sind, sondern genuiner Bestandteil wissenschaftlicher Erkenntnis.
 
-## Hinweis zur Nutzung von OpenAI
+## Einsatz von KI-gestützten Werkzeugen
 
-**B**ei der Erstellung meiner Beiträge nutze ich gezielt das aktuellste OpenAI-Modell, um komplexe Themen systematisch zu strukturieren und methodisch nachvollziehbar darzustellen – insbesondere in der Integration theoretischer und technischer Inhalte.
+Die Integration von KI-Tools in den Forschungsprozess erfolgt bewusst reflektiert. KI-gestützte Werkzeuge erweitern Denk- und Darstellungsmöglichkeiten, ersetzen jedoch keine fachliche Urteilskraft.
 
-**D**ie Nutzung generativer KI erfolgt im Rahmen eines reflektierten wissenschaftlichen Prozesses. OpenAI dient dabei als Werkzeug zur Textkonstruktion, nicht als inhaltlich autoritative Quelle. Die finale Validierung liegt vollständig bei mir.
+Leitlinien für den Einsatz:
 
-**D**ieser Ansatz entspricht der Position von Kerres et al. (2024), KI als unterstützendes, jedoch kritisch zu reflektierendes Werkzeug zu nutzen – mit dem Ziel, wissenschaftliche Denkansätze zu erweitern und Innovation zu fördern.
+1. **Transparenz** – Offenlegung des KI-Einsatzes in Veröffentlichungen und Protokollen.
+2. **Validierung** – Kritische Überprüfung der KI-Ergebnisse durch Expert:innen.
+3. **Datenschutz** – Einhaltung geltender Datenschutzbestimmungen bei der Nutzung von KI-Diensten.
+4. **Reflexion** – Kontinuierliche Evaluation der Auswirkungen von KI auf Forschungsprozesse und Ergebnisse.
 
-# Quelle(n)
+Ich nutze gezielt das jeweils aktuelle OpenAI-Modell, um komplexe Themen zu strukturieren und theoretisch wie technisch miteinander zu verweben. OpenAI dient als Werkzeug zur Textkonstruktion, nicht als inhaltlich autoritative Quelle; die finale Validierung verbleibt vollständig bei mir. Dieser Ansatz folgt Kerres et al. (2024): KI wird als unterstützendes, kritisch zu reflektierendes Instrument eingesetzt, um wissenschaftliche Denkansätze zu erweitern und Innovation zu fördern.
+
+Die Kombination von menschlicher Urteilskraft und KI-Technologie kann Forschung bereichern – vorausgesetzt, ihre Grenzen, Potenziale und epistemischen Implikationen werden offen kommuniziert.
+
+## Quelle(n)
 
 - Döring, N. (2023a). Ergebnispräsentation. In N. Döring, _Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften_ (S. 767–786). Springer. https://doi.org/10.1007/978-3-662-64762-2_13
 - Döring, N. (2023b). Qualitätskriterien. In N. Döring, _Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften_ (S. 79–118). Springer. https://doi.org/10.1007/978-3-662-64762-2_3
