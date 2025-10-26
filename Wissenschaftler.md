@@ -15,8 +15,6 @@ tags:
 published: 
 ---
 
-[[Wer ich bin]] · [[Lehrender]] · [[Systemischer Berater]]
-
 **A**ls Bildungswissenschaftler und [[Lehrender]] widme ich mich der Gestaltung von Vorlesungen, Seminaren und Forschungsprojekten. Mein Ziel ist es, innovative Lösungen für bildungsrelevante Fragestellungen zu entwickeln und den wissenschaftlichen Austausch zu fördern.
 
 **H**ierzu führe ich nicht nur Auftragsarbeiten sondern eigene Forschungen durch. Eine Übersicht der aktuellen Umfragen finden sich unter [[Echolab]].

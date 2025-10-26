@@ -15,8 +15,6 @@ type:
 project: Soziotherapie
 ---
 
-[[Wer ich bin]] · [[Systemischer Berater]] · [[Therapiebegleithund]]
-
 **A**ls Soziotherapeut i. Anerkennungsverfahren unterstütze ich zukünftig erwachsene Menschen mit chronischen psychischen Erkrankungen bei der Bewältigung ihres Alltags, beim Aufbau tragfähiger Strukturen und in der koordinierenden Zusammenarbeit mit Ärztinnen und Ärzten, Therapeutinnen und Therapeuten sowie sozialen Institutionen. Der Fokus meiner Arbeit liegt auf der Förderung von Selbststeuerung, Stabilisierung und Versorgungskontinuität.
 
 # Qualifikationshintergrund

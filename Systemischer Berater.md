@@ -17,8 +17,6 @@ tags:
 published: 
 ---
 
-[[Wer ich bin]] · [[Soziotherapeut]] · [[Therapiebegleithund]]
-
 **A**ls Systemischer Berater unterstütze ich Klient_innen dabei, die Dynamiken innerhalb ihrer individuellen und sozialen Systeme zu erkennen und zu gestalten. Dieser Raum widmet sich der systemischen Beratung und bietet Einblicke in die angewandten Methoden.
 
 # Über systemische Beratung  

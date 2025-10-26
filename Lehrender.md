@@ -11,8 +11,6 @@ tags:
 published:
 ---
 
-[[Wer ich bin]] · [[Wissenschaftler]] · [[Systemischer Berater]]
-
 **M**eine Lehrphilosophie basiert auf einer harmonischen Verbindung zwischen Theorie und Praxis. Studierende sollen nicht nur Konzepte verstehen, sondern deren Relevanz für die berufliche Anwendung erkennen. Ich lege Wert auf eine strukturierte, interaktive und diskursive Lehrgestaltung, die Raum für Reflexion und kritische Auseinandersetzung bietet.
 
 # Über meine Lehrtätigkeit  

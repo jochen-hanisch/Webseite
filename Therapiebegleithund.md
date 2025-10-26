@@ -13,8 +13,6 @@ published: ""
 project: Soziotherapie
 ---
 
-[[Wer ich bin]] · [[Systemischer Berater]] · [[Soziotherapeut]]
-
 # Therapiebegleithund Archibald "August" vom Kallbach
 
 ## Über Archibald
