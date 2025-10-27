@@ -63,7 +63,3 @@ Alle Inhalte stehen unter der **GNU Affero General Public License v3**. Die Lize
 ## Feedback & Kontakt
 
 Rückmeldungen, Korrekturen oder inhaltliche Diskussionen sind willkommen. Offene Fragen bitte über [GitHub Discussions](https://github.com/jochen-hanisch/webseite/discussions) einbringen; thematisch fokussierte Hinweise oder Fehler lassen sich gezielt über Issues oder Pull Requests nachverfolgen. Für Anliegen, die nicht öffentlich dokumentiert werden sollen, stehen die in `Kontakt.md` genannten Kanäle bereit.
-
----
-
-[[Impressum]] | [[Datenschutz]] | [[Disclaimer]] | [[Allgemeine Geschäftsbedingungen]] | [[Kontakt]]
