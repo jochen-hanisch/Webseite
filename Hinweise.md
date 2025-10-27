@@ -95,7 +95,7 @@ _Abbildung 1: Ablauf der Veröffentlichung (eig. Darstellung)_
 
 - Veröffentlichungswürdige Beiträge eröffnen neue Perspektiven oder schließen Lücken in der Fachliteratur – dies wird vor jeder Freigabe kritisch reflektiert.
 - Zur Sicherung der Originalfassung wird jede veröffentlichte Notiz als statisches PDF exportiert und mit DOI auf [Zenodo](https://zenodo.org) hinterlegt, die DOI erscheint in der Notiz.
-- Die dynamische Weiterentwicklung dokumentiert [git.jochen-hanisch.de](https://git.jochen-hanisch.de); empty commits markieren erkenntnistheoretisch relevante Wendepunkte.
+- Die dynamische Weiterentwicklung dokumentiert [GitHub](https://github.com/jochen-hanisch); empty commits markieren erkenntnistheoretisch relevante Wendepunkte.
 - Erkenntnis entsteht im Dialog: Feedback fließt iterativ in die Texte zurück.
 
 ## Gütekriterien und Reflexion
@@ -122,7 +122,7 @@ Fachkolleg:innen und interessierte Personen sind ausdrücklich eingeladen, Rück
 
 ## Zitierhinweise und Lizenz
 
-Alle Texte und Veröffentlichungen stehen unter der **GNU Affero General Public License, Version 3 (GNU AGPL v3)**. Die Lizenz gewährt umfassende Nutzungs-, Änderungs- und Weitergaberechte, solange die Lizenzbedingungen eingehalten werden. Der vollständige Lizenztext ist verfügbar unter <https://www.gnu.org/licenses/agpl-3.0.html>.
+Alle Texte und Veröffentlichungen stehen unter der **GNU Affero General Public License, Version 3 (GNU AGPL v3)**. Die Lizenz gewährt umfassende Nutzungs-, Änderungs- und Weitergaberechte, solange die Lizenzbedingungen eingehalten werden. Der vollständige Lizenztext ist unter <https://www.gnu.org/licenses/agpl-3.0.html> verfügbar.
 
 Alle Inhalte dieser Webseite können gemäß den Zitationsrichtlinien des jeweiligen Fachbereichs zitiert werden. Neben den finalen PDF-Fassungen mit DOI werden relevante Git-Commits referenziert, sofern sie erkenntnisrelevante Protokolle oder Umstrukturierungen enthalten.
 
@@ -149,7 +149,7 @@ Leitlinien für den Einsatz:
 
 Ich nutze gezielt das jeweils aktuelle OpenAI-Modell, um komplexe Themen zu strukturieren und theoretisch wie technisch miteinander zu verweben. OpenAI dient als Werkzeug zur Textkonstruktion, nicht als inhaltlich autoritative Quelle; die finale Validierung verbleibt vollständig bei mir. Dieser Ansatz folgt Kerres et al. (2024): KI wird als unterstützendes, kritisch zu reflektierendes Instrument eingesetzt, um wissenschaftliche Denkansätze zu erweitern und Innovation zu fördern.
 
-Die Kombination von menschlicher Urteilskraft und KI-Technologie kann Forschung bereichern – vorausgesetzt, ihre Grenzen, Potenziale und epistemischen Implikationen werden offen kommuniziert.
+Die Kombination von menschlicher Urteilskraft und KI-Technologie kann Forschung bereichern; vorausgesetzt, ihre Grenzen, Potenziale und epistemischen Implikationen werden offen kommuniziert.
 
 ## Quelle(n)
 
