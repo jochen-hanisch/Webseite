@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Hinweise
-Repository: https://github.com/jochen-hanisch/Webseite
+Repository: https://github.com/jochen-hanisch/webseite
 created: 2024-11-17
 updated: 2025-10-26
 publish: true
