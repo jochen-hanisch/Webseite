@@ -9,7 +9,7 @@ tags:
 published: 2025-10-26
 ---
 
-## Arbeits- und Forschungspraxis
+# Arbeits- und Forschungspraxis
 
 **A**lle auf dieser Webseite veröffentlichten Inhalte basieren auf einem unabhängigen, theoretischen Forschungsansatz und repräsentieren Grundlagenforschung. Die Arbeiten folgen den Prinzipien wissenschaftlicher Redlichkeit, wurden jedoch bewusst keinem Peer-Review-Verfahren unterzogen. Ziel ist es, neue interdisziplinäre Perspektiven frei von traditionellen Publikationsrestriktionen zugänglich zu machen und zur Diskussion zu stellen.
 
@@ -114,7 +114,7 @@ Leitfragen:
 3. **Vermeidung von Beliebigkeit** – Strukturierte Entscheidungen statt opportunistischer Veröffentlichungen.
 4. **Reflexion der Konstruiertheit** – Selbstkritischer Umgang mit erkenntnistheoretischen Prämissen.
 
-## Wissenschaftskommunikation und Öffentlichkeitsarbeit
+# Wissenschaftskommunikation und Öffentlichkeitsarbeit
 
 Die Webseite versteht sich als Instrument systemisch reflexiver Wissenschaftskommunikation. Forschungsergebnisse sollen nicht nur innerhalb von Fachkreisen, sondern auch im öffentlichen Raum Wirkung entfalten. In einer vernetzten Wissenschaftslandschaft ersetzen dynamische, kuratierte Webformate zunehmend klassische Monografien. Plattformen wie ResearchGate oder Zenodo dienen der Archivierung, Git der Versionierung.
 
@@ -136,9 +136,11 @@ Zentrale Entwicklungsschritte werden schriftlich fixiert und über die Git-Histo
 
 Diese Protokolle zeigen, dass Irrtum, Revision und Emergenz keine Schwächen sind, sondern genuiner Bestandteil wissenschaftlicher Erkenntnis.
 
-## Einsatz von KI-gestützten Werkzeugen
+# Ethik und Publikationsstandards
 
 Die Integration von KI-Tools in den Forschungsprozess erfolgt bewusst reflektiert. KI-gestützte Werkzeuge erweitern Denk- und Darstellungsmöglichkeiten, ersetzen jedoch keine fachliche Urteilskraft.
+
+Diese Webseite und alle ihre Veröffentlichungen orientieren sich an den Empfehlungen des *Committee on Publication Ethics (COPE)*. Der reflektierte und dokumentierte Einsatz von KI entspricht den COPE-Leitlinien, insbesondere hinsichtlich:
 
 Leitlinien für den Einsatz:
 
@@ -149,12 +151,13 @@ Leitlinien für den Einsatz:
 
 Ich nutze gezielt das jeweils aktuelle OpenAI-Modell, um komplexe Themen zu strukturieren und theoretisch wie technisch miteinander zu verweben. OpenAI dient als Werkzeug zur Textkonstruktion, nicht als inhaltlich autoritative Quelle; die finale Validierung verbleibt vollständig bei mir. Dieser Ansatz folgt Kerres et al. (2024): KI wird als unterstützendes, kritisch zu reflektierendes Instrument eingesetzt, um wissenschaftliche Denkansätze zu erweitern und Innovation zu fördern.
 
-Die Kombination von menschlicher Urteilskraft und KI-Technologie kann Forschung bereichern; vorausgesetzt, ihre Grenzen, Potenziale und epistemischen Implikationen werden offen kommuniziert.
+Die konsequente Offenlegung und Versionierung von Inhalten über Git, Zenodo und DOI dient als Beleg für wissenschaftliche Redlichkeit und entspricht den ethischen Standards von COPE. Hiermit kann die Kombination von menschlicher Urteilskraft und KI-Technologie Forschung bereichern; vorausgesetzt, ihre Grenzen, Potenziale und epistemischen Implikationen werden offen kommuniziert.
 
-## Quelle(n)
+# Quelle(n)
 
 - Döring, N. (2023a). Ergebnispräsentation. In N. Döring, _Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften_ (S. 767–786). Springer. https://doi.org/10.1007/978-3-662-64762-2_13
 - Döring, N. (2023b). Qualitätskriterien. In N. Döring, _Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften_ (S. 79–118). Springer. https://doi.org/10.1007/978-3-662-64762-2_3
+- Handling an article produced by AI. (2025). COPE: Committee on Publication Ethics. https://publicationethics.org/guidance/case/handling-article-produced-ai
 - Kerres, M., Klar, M., & Mulders, M. (2024). Informationskompetenz neu denken. _Erwachsenenbildung_, 2, 52–57.
 
 ---
