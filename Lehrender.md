@@ -15,6 +15,30 @@ published:
 
 # Über meine Lehrtätigkeit  
 
+### Leitgedanke und Kompetenzverständnis
+
+**D**amit wird die Lehrphilosophie eng mit meiner Devise **finis agenda scientia facultasque** verbunden – *Das Ziel des Handelns: Wissen und Können.*  
+Diese Devise bildet die verdichtete Essenz meiner Kompetenzdefinition für High Responsibility Teams (Hanisch, 2023) und spiegelt den Kern meiner bildungswissenschaftlichen Haltung wider: Kompetenz ist die Fähigkeit, Handlungen auf der Grundlage von Wissen und Können so zu gestalten, dass sie zur Überwindung von Transformationsbarrieren führen.  
+
+**I**n dieser Perspektive lässt sich eine strukturelle Parallele zwischen Devise und Kompetenzdefinition erkennen:
+
+| Ebene | Begriff aus der Definition | Entsprechung in der Devise | Funktion |
+|-------|-----------------------------|-----------------------------|-----------|
+| Zielorientierung | „…deren Wirkung zu angemessenem und brauchbarem Handeln führt…“ | finis agenda | Zweck und Richtung jeder Handlung |
+| Wissensdimension | „…auf ausbildungsrechtlichen Grundlagen…“ | scientia | epistemische Fundierung und Reflexion |
+| Fähigkeitsdimension | „…Operationen … zu planen…“ | facultas | operative, exekutive Umsetzungskompetenz |
+
+**D**amit wird die Devise zu einer symbolischen Kondensation meiner Kompetenzauffassung: Wissen (*scientia*) und Können (*facultas*) sind die beiden Ermöglichungsbedingungen, damit Handeln (*agenda*) überhaupt ein Ziel (*finis*) erreichen kann.
+
+**I**m systemisch-theoretischen Sinne der Epistemosphäre beschreibt sie eine erkenntnisorientierte Kompetenzlogik:
+
+$$
+Teleologie → Epistemik → Performanz → Transformation.
+$$
+
+**D**iese Struktur bildet den theoretischen Rahmen meiner Lehre: Studierende sollen befähigt werden, Wissen in verantwortliches Handeln zu überführen, dabei systemische Zusammenhänge zu erkennen und lernend auf komplexe Situationen zu reagieren.  
+So entsteht Bildung im eigentlichen Sinne – als Verbindung von Erkenntnis, Handlung und Selbstwirksamkeit.
+
 **D**ie [[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung|Kompetenzentwicklung]] erfolgt in meinen Lehrveranstaltungen nach einem systemisch-konstruktivistischen Ansatz: [[Lernen als universelles Prinzip]] ist ein aktiver Prozess, bei dem Studierende durch strukturierte Interaktion und eigenständige Reflexion Wissen konstruieren. Ich setze auf eine methodische Vielfalt, die sich an den Anforderungen der jeweiligen Inhalte und der Lernenden orientiert:
 
 - Praxisnahe Fallstudien zur Verknüpfung von Theorie und realen Herausforderungen.

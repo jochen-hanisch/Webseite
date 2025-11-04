@@ -25,6 +25,19 @@ published:
 
 **D**arüber hinaus beschäftige ich mich mit der Analyse des Erlebens und der Auswirkungen von Prüfungen im Gesundheitswesen. Mein besonderes Interesse gilt der systemischen Interventionskompetenz, mit der ich Ansätze für kritische Situationen erforsche, die Theorie und Praxis sinnvoll verbinden.  
 
+### Retrospektive Deutung meiner Devise  
+
+**D**ie Devise **finis agenda scientia facultasque** ist keine nachträgliche Konstruktion, sondern eine frühe Verdichtung meines wissenschaftlichen und pädagogischen Selbstverständnisses. Sie entstand als Ausdruck einer Haltung, die Handeln, Wissen und Können nicht trennt, sondern als aufeinander bezogene Dimensionen begreift.  
+
+**R**ückblickend zeigt sich, dass diese Worte mein Denken und Handeln über viele Jahre hinweg unbewusst strukturiert haben.
+
+- *Finis agenda* verweist auf die Zielgerichtetheit und ethische Verantwortlichkeit jeder Handlung – das bewusste Streben nach Sinn.  
+- *Scientia* markiert die epistemische Grundlage: den Anspruch, Wissen nicht nur zu besitzen, sondern es kritisch, systemisch und dialogisch zu verstehen.  
+- *Facultas* schließlich steht für die Fähigkeit, dieses Wissen handlungsfähig zu machen – im Gestalten, Lehren und Beraten.  
+
+**I**m Zusammenwirken bilden diese drei Begriffe das Fundament meines wissenschaftlichen Werdegangs: Sie prägen meine Theorie der [[Epistemosphäre]] ebenso wie mein Verständnis von [[Kompetenzentwicklung]] in High-Responsibility-Teams.  
+Damit wurde die Devise zu einer inneren Leitstruktur, die sich nicht in Worten erschöpft, sondern in einer Haltung zur Welt, zum Wissen und zur Verantwortung verwirklicht.
+
 ## Aktuelle Forschungsprojekte  
 
 **D**ie folgenden Projekte verdeutlichen die Bandbreite meiner Forschungsarbeit:  
@@ -66,7 +79,7 @@ published:
 
 **W**issenschaftliche Dienstleistungen sind so vielseitig wie die Projekte, die sie begleiten. Die Honorargestaltung orientiert sich an der Tiefe der Analyse, der Dauer von Vorträgen sowie der Komplexität der jeweiligen Aufgabenstellung.
 
->**Die genannten Honorarsätze dienen als Richtwerte.**
+>[!info] **Die genannten Honorarsätze dienen als Richtwerte.**
 **F**ür umfangreichere Projekte, längerfristige Kooperationen oder spezifische Anforderungen erstelle ich gerne ein individuelles Angebot, das auf die Bedürfnisse des jeweiligen Vorhabens abgestimmt ist.
 
 **F**alls Sie Fragen zu den Honoraren oder zu den genauen Inhalten der angebotenen Dienstleistungen haben, können Sie mich gerne [[Kontakt|kontaktieren]]. Ich freue mich auf den Austausch und die Zusammenarbeit an spannenden Projekten.

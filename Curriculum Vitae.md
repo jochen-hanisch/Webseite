@@ -96,7 +96,7 @@ published:
 
 Kompetenz verstehe ich als Fähigkeit, Wissen verantwortungsvoll anzuwenden – in Forschung wie in operativen Hochlastsituationen.
 
-## Intellektuelle Verortung (Kurzfassung)
+## Intellektuelle Verortung
 
 Meine Arbeit bewegt sich im Spannungsfeld von kritischem Rationalismus (hinterfragen, falsifizieren), Systemtheorie (dynamische Strukturen verstehen), Aufklärung & Humanismus (Autonomie sichern), Existentialismus (Verantwortung tragen), Wissenschaftsphilosophie (Evidenz reflektieren), Macht- und Diskurstheorie (Institutionen analysieren) sowie Pragmatismus (Wirkung zählt). Diese Strömungen bilden das Fundament, auf dem ich Bildung, Gesundheit und Technologie verknüpfe.
 
