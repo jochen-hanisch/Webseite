@@ -27,11 +27,27 @@ Diese Arbeit ermöglicht Orientierung, ohne zu simplifizieren, und Fokus, ohne z
 ![[LSP Badge_Complete Certification.png]]
 **[LEGO® SERIOUS PLAY® (LSP) facilitator badge](https://inthrface.com/en/complete-certification-in-the-lego-serious-play-methodology-badge/)**
 
-## Formate im Überblick
+> [!info] Testimonial von Professor Johan S. Roos
+> IntHRface's facilitator training in the LEGO® SERIOUS PLAY® methodology has been endorsed by one of the founders of LEGO® SERIOUS PLAY®:
+>
+>"The comprehensive course material and innovative pedagogy used in IntHRface's facilitator training align with, and positively extend the original LEGO• SERIOUS PLAY® concept".
+>
+Professor Johan S. Roos
+Co-author of the Serious Play concept, co-inventor of LEGO® SERIOUS PLAY®, co-developer of the original LEGO® SERIOUS PLAY® manuals, and co-founder of Imagination Lab Foundation.
 
-- [[Identity Exploration]] (RTI): Kern-, Außen- und Aspirationsidentität modellieren und Leitprinzipien ableiten.  
-- [[System Mapping]] (RTS): Agents, Kopplungen und Interdependenzen sichtbar machen, Szenarien durchspielen.  
-- High-Responsibility Reflexion: Prozessschleifen „Feedback – Inversion – Reflexion – Re-Inversion – Reentry“ (in Vorbereitung).
+## Angebote (Teaser, in Entwicklung)
+
+- **Identity Exploration (RTI, 0,5–1 Tag)**  
+  Fokus: Kern-/Außen-/Aspirationsidentität von HRT; Abschluss mit 3–5 Simple Guiding Principles.  
+  Deliverables: Fotodoku, strukturierte Leitprinzipien, nächste 3 Entscheidungsregeln für den Alltag.
+
+- **System Mapping (RTS, 1 Tag + optional 0,5 Tag)**  
+  Fokus: Agents, Kopplungen, Triggerpunkte; Varianten „Was passiert, wenn …?“ im Team durchgespielt.  
+  Deliverables: Lagebild-Canvas (Foto), Trigger-/Eskalationspfade, Prioritätenliste für nächste Iteration.
+
+- **High-Responsibility Reflexion (Pilot, 0,5 Tag)**  
+  Fokus: Prozessschleife „Feedback – Inversion – Reflexion – Re-Inversion – Reentry“ auf ein kritisches Muster.  
+  Deliverables: Musterkarte (Foto), 2–3 Interventionen zur Erprobung, kurzer Check-in-Plan (4 Wochen).
 
 # Beispiele möglicher Formate
 
@@ -75,4 +91,4 @@ In High Responsibility Teams ist Rollenklarheit nicht statisch – sie wird im E
 
 ---
 
-[[Impressum|Impressum]] | [[Datenschutz|Datenschutz]] | [[Disclaimer|Disclaimer]] | [[Allgemeine Geschäftsbedingungen]] | [[Kontakt|Kontakt]]
+[[Impressum]] | [[Datenschutz]] | [[Disclaimer]] | [[Allgemeine Geschäftsbedingungen]] | [[Kontakt]]

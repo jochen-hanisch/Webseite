@@ -30,8 +30,6 @@ published:
 - **[[Soziotherapeut|Sinnrekonstruktiv]]**, nicht Transferoptimierer.
 - **Einer, der Wirkung sucht – nicht Zustimmung.**
 
-**D**aran darf und soll deine Theorie anschließen.
-
 ## Aktuelle Forschung
 
 ### Jochen Hanisch M.A., M.A.
@@ -75,6 +73,13 @@ published:
 **D**ürnten (Schweiz)  
 **Spezialisierung:** Psycho-soziale tiergestützte Interventionen und Begleitung in praxisrelevanten Kontexten.
 
+## Trained facilitator of LEGO® SERIOUS PLAY® method and materials
+
+**I**nthrface – Complete Certification  
+**Fokus:** Real Time Strategy (RTS), Real Time Identity (RTI), Skills Building, Facilitation Essentials  
+**Besonderheit:** Durch Prof. Johan S. Roos (Co-Inventor) inhaltlich unterstütztes Trainingscurriculum  
+**Anwendungskontexte:** High Responsibility Teams, komplexe Entscheidungs- und Lernsituationen
+
 ## Professionelle Haltung
 
 **M**eine Arbeit verbindet wissenschaftlich fundierte Methodik mit kreativen, innovativen Denkweisen. Ziel ist es, theoretische Lösungen zu entwickeln, die in der Praxis wirken. Evidenzbasierung trifft auf Flexibilität, um passgenaue Konzepte zu realisieren. Transparenz und Vertrauen bilden die Grundlage, anspruchsvolle Projekte verantwortungsvoll umzusetzen.
@@ -91,7 +96,7 @@ published:
 
 ## Leitsatz
 
-> **finis agenda scientia facultasque**  
+> **finis agendi scientia facultasque**  
 > *Das Höchste des Denkens und Handelns sei Kompetenz.*
 
 Kompetenz verstehe ich als Fähigkeit, Wissen verantwortungsvoll anzuwenden – in Forschung wie in operativen Hochlastsituationen.
