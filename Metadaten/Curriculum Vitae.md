@@ -32,9 +32,8 @@ published:
 
 ## Aktuelle Forschung
 
-### Jochen Hanisch M.A., M.A.
+### Doktorand Medizinische Wissenschaften
 
-**D**oktorand Medizinische Wissenschaften  
 **C**harité – Universitätsmedizin Berlin, Klinik für Kardiologie, Angiologie und Intensivmedizin  
 **Betreuung:** Prof. Dr. med. Sebastian Spethmann, MHBA  
 **Forschungsthema:** *Wirkgefüge im digitalen Bildungsraum: Eine Untersuchung der Merkmale, Effekte, Mechanismen und Reaktionen von Learning-Management-Systemen am Beispiel der Lehre in Gesundheitsberufen.*
@@ -73,9 +72,10 @@ published:
 **D**ürnten (Schweiz)  
 **Spezialisierung:** Psycho-soziale tiergestützte Interventionen und Begleitung in praxisrelevanten Kontexten.
 
-## Trained facilitator of LEGO® SERIOUS PLAY® method and materials
+## LEGO® SERIOUS PLAY® method and materials
 
-**I**nthrface – Complete Certification  
+**I**nthrface – Complete Certification
+**A**usbildung zum [[Trained facilitator]]
 **Fokus:** Real Time Strategy (RTS), Real Time Identity (RTI), Skills Building, Facilitation Essentials  
 **Besonderheit:** Durch Prof. Johan S. Roos (Co-Inventor) inhaltlich unterstütztes Trainingscurriculum  
 **Anwendungskontexte:** High Responsibility Teams, komplexe Entscheidungs- und Lernsituationen
