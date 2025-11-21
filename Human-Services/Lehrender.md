@@ -39,7 +39,7 @@ $$
 **D**iese Struktur bildet den theoretischen Rahmen meiner Lehre: Studierende sollen befähigt werden, Wissen in verantwortliches Handeln zu überführen, dabei systemische Zusammenhänge zu erkennen und lernend auf komplexe Situationen zu reagieren.  
 So entsteht Bildung im eigentlichen Sinne – als Verbindung von Erkenntnis, Handlung und Selbstwirksamkeit.
 
-**D**ie [[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung|Kompetenzentwicklung]] erfolgt in meinen Lehrveranstaltungen nach einem systemisch-konstruktivistischen Ansatz: [[Lernen als universelles Prinzip]] ist ein aktiver Prozess, bei dem Studierende durch strukturierte Interaktion und eigenständige Reflexion Wissen konstruieren. Ich setze auf eine methodische Vielfalt, die sich an den Anforderungen der jeweiligen Inhalte und der Lernenden orientiert:
+**D**ie [[Kompetenzentwicklung|Kompetenzentwicklung]] erfolgt in meinen Lehrveranstaltungen nach einem systemisch-konstruktivistischen Ansatz: [[Lernen als universelles Prinzip]] ist ein aktiver Prozess, bei dem Studierende durch strukturierte Interaktion und eigenständige Reflexion Wissen konstruieren. Ich setze auf eine methodische Vielfalt, die sich an den Anforderungen der jeweiligen Inhalte und der Lernenden orientiert:
 
 - Praxisnahe Fallstudien zur Verknüpfung von Theorie und realen Herausforderungen.
 - Diskursive Formate, die kritisches Denken und Perspektivenvielfalt fördern.

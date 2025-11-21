@@ -18,9 +18,9 @@ Dieses Repository bündelt die Markdown-Inhalte meiner beruflichen Webseite. Der
 ## Struktur der Inhalte
 
 - [`Herzlich Willkommen.md`](Herzlich%20Willkommen.md) – Einstieg in den ORKH, leitende Haltung und Forschungsfelder.
-- [`Hinweise.md`](Hinweise.md) – Dokumentation der epistemischen und versionsbezogenen Arbeitsweise einschließlich Commit-Typen und Git-Logik.
+- [`Hinweise.md`](Allgemein%20beruflich/Webseite/Metadaten/Hinweise.md) – Dokumentation der epistemischen und versionsbezogenen Arbeitsweise einschließlich Commit-Typen und Git-Logik.
 - [`Curriculum Vitae.md`](Curriculum%20Vitae.md) – Verweis auf den gepflegten Europass-Lebenslauf und Einbettung in die Versionierungspraxis.
-- Fach- und Angebotsseiten wie [`Wissenschaftler.md`](Wissenschaftler.md), [`Systemischer Berater.md`](Systemischer%20Berater.md), [`Soziotherapeut.md`](Soziotherapeut.md), [`Therapiebegleithund.md`](Therapiebegleithund.md) oder [`Lehrender.md`](Lehrender.md) erläutern Rollen, Projekte und Haltung.
+- Fach- und Angebotsseiten wie [`Wissenschaftler.md`](Wissenschaftler.md), [`Systemischer Berater.md`](Systemischer%20Berater.md), [`Soziotherapeut.md`](Soziotherapeut.md), [`Therapiebegleithund.md`](Allgemein%20beruflich/Webseite/Human-Services/Therapiebegleithund.md) oder [`Lehrender.md`](Lehrender.md) erläutern Rollen, Projekte und Haltung.
 - Rechtliche Grundlagen (`Impressum.md`, `Datenschutz.md`, `Disclaimer.md`, `Allgemeine Geschäftsbedingungen.md`) sichern Transparenz und erfüllen die Anforderungen für den professionellen Auftritt.
 - [`public.md`](public.md) bündelt Links zu interaktiven Visualisierungen und datengestützten Analysen, die über `echo.jochen-hanisch.de` bereitgestellt werden.
 
